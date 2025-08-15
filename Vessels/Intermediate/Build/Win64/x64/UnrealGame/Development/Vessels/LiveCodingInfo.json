@@ -1,8 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.Vessels.cpp.obj": [
-			"Vessels.cpp.obj"
-		]
-	}
-}
