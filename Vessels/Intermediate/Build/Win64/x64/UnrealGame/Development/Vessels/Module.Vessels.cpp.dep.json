@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lu1sr\\documents\\unrealprojects\\vessels\\vessels\\intermediate\\build\\win64\\x64\\unrealgame\\development\\vessels\\module.vessels.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lu1sr\\documents\\unrealprojects\\vessels\\vessels\\intermediate\\build\\win64\\x64\\vessels\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\lu1sr\\documents\\unrealprojects\\vessels\\vessels\\intermediate\\build\\win64\\x64\\unrealgame\\development\\vessels\\definitions.vessels.h",
+            "c:\\users\\lu1sr\\documents\\unrealprojects\\vessels\\vessels\\intermediate\\source\\vessels.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
