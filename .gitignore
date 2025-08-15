@@ -80,3 +80,9 @@ DerivedDataCache/*
 Vessels/Content/VESSELS/MainMenu.umap
 Vessels/Content/VESSELS/DivingBell.umap
 Vessels/Content/VESSELS/DivingBell.umap
+Content/Elite_FractalDesert/Maps/
+Content/EuropeanHornbeam/
+Vessels/Saved/Cooked/*
+Vessels/Saved/StagedBuilds/Windows/*
+Vessels/Saved/Shaders/*
+Vessels/Binaries/Win64/*
